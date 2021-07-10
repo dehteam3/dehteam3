@@ -12,3 +12,11 @@ Coding is life :)))
 - 🆒 I made: [Discord RPC Package Example](https://github.com/dehteam3/discord-rpc-EXAMPLE) and [Ban Royale Manager Bot](https://dehteam3.github.io/banroyalemanager)
 - 🔧 Planning on making more bots
 - 📈 Trying to grow up on discord
+
+# My Favorite Links
+
+- My bot's support server: https://discord.gg/DHayh79vfy
+- Ace's server: https://discord.gg/2cD6xDStee
+- Bart's server: https://discord.gg/3fwR3sCswN
+- Andry's server: https://discord.gg/mshAfwysFh
+- Andry's youtube: https://www.youtube.com/channel/UCrXE-3UbvVNvgkczgP6wpkg
