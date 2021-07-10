@@ -15,8 +15,8 @@ Coding is life :)))
 
 # My Favorite Links
 
-- My bot's support server: https://discord.gg/DHayh79vfy
-- Ace's server: https://discord.gg/2cD6xDStee
-- Bart's server: https://discord.gg/3fwR3sCswN
-- Andry's server: https://discord.gg/mshAfwysFh
-- Andry's youtube: https://www.youtube.com/channel/UCrXE-3UbvVNvgkczgP6wpkg
+- My bot's support server: [Click Here](https://discord.gg/DHayh79vfy)
+- Ace's server: [Click Here](https://discord.gg/2cD6xDStee)
+- Bart's server: [Click Here](https://discord.gg/3fwR3sCswN)
+- Andry's server: [Click Here](https://discord.gg/mshAfwysFh)
+- Andry's youtube: [Click Here](https://www.youtube.com/channel/UCrXE-3UbvVNvgkczgP6wpkg)
