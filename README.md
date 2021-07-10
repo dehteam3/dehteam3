@@ -1,5 +1,10 @@
 # dehteam3's Github
 
+```js
+<Quick Introduction>
+Coding is life :)))
+```
+
 - 👋 Hi I am dehteam3
 - 👦 I am 14 years old
 - 👨‍💻 I like programming discord bots
