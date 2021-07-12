@@ -13,7 +13,7 @@ Coding is life :)))
 - 🔧 Planning on making more bots
 - 📈 Trying to grow up on discord
 
-****Some Links:****
+# Some Links:
 
 - My bot's support server: [Click Here](https://discord.gg/DHayh79vfy)
 - Ace's server: [Click Here](https://discord.gg/2cD6xDStee)
@@ -23,7 +23,17 @@ Coding is life :)))
 - Jakob's bot: [Click Here](https://dsc.gg/revan)
 - Jakob's server: [Click Here](https://discord.gg/PFn8UJNuQj)
 
-****Languages and Tools:****
+# My stats:
+
+[![dehteam3's GitHub stats](https://github-readme-stats.vercel.app/api?username=dehteam3&show_icons=true&theme=tokyonight&hide_border=true)][website]
+
+[website]: "https://dehteam3.github.io/banroyalemanager"
+
+# Top Languages:
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dehteam3)][website]
+
+# Languages and Tools:
 
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][website]
 [<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][website]
@@ -34,13 +44,3 @@ Coding is life :)))
 [<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />][website]
 [<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][website]
 [<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />][website]
-
-****My stats:****
-
-[![dehteam3's GitHub stats](https://github-readme-stats.vercel.app/api?username=dehteam3&show_icons=true&theme=tokyonight&hide_border=true)][website]
-
-[website]: "https://dehteam3.github.io/banroyalemanager"
-
-****Top Languages:****
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dehteam3)][website]
