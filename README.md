@@ -1,8 +1,7 @@
 # dehteam3's Github
 
 ```js
-<Quick Introduction>
-Coding is life :)))
+const dehteam3 = "A Human";
 ```
 
 - 👋 Hi I am dehteam3
