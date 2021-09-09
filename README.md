@@ -18,8 +18,6 @@ const dehteam3 = "A Human";
 - Jakob's bot: [Click Here](https://dsc.gg/revan)
 - Jakob's server: [Click Here](https://discord.gg/PFn8UJNuQj)
 
-<br />
-
 ### Languages and Tools:
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
@@ -33,8 +31,6 @@ const dehteam3 = "A Human";
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 
 <br />
-
----
 
 ### Github Stats
 [![dehteam3's GitHub stats](https://github-readme-stats.vercel.app/api?username=dehteam3&show_icons=true&title_color=ce0037&text_color=fff&icon_color=ce0037&bg_color=141518&border_radius=20&hide_border=true&include_all_commits=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
