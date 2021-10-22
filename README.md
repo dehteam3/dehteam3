@@ -10,6 +10,7 @@ const dehteam3 = "A Human";
 - 🏫 I am learning 4 coding languages: Javascript, Typescript, HTML, CSS
 - 🆒 I made: [Discord RPC Package Example](https://github.com/dehteam3/discord-rpc-EXAMPLE)
 - 📈 Trying to grow up on discord
+- 🌐 [Click Here](https://dehteam3.github.com) to visit my website
 
 ### Some Links:
 - Bart's server: [Click Here](https://discord.gg/3fwR3sCswN)
