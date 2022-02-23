@@ -10,7 +10,7 @@ const dehteam3 = {
 ```
  
 <div align="center"> 
- ​![​Discord​](https://discord.c99.nl/widget/theme-3/614581812986904616.png)  
+ ​![​Discord​](https://discord.c99.nl/widget/theme-2/614581812986904616.png)  
 ​</div>
 
 - 👋 Hi I am dehteam3
