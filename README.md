@@ -8,9 +8,12 @@ const dehteam3 = {
   country: "Egypt",
 };
 ```
-<div align="center">
-![​Discord​](https://discord.c99.nl/widget/theme-3/614581812986904616.png)
-</div>
+ 
+<div align="center"> 
+  
+ ​![​Discord​](https://discord.c99.nl/widget/theme-3/614581812986904616.png) 
+ ​  
+​</div>
 
 - 👋 Hi I am dehteam3
 - 👦 I am 14 years old
