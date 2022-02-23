@@ -1,8 +1,16 @@
 # dehteam3's Github
 
 ```js
-const dehteam3 = "A Human";
+const dehteam3 = {
+  name: "Thomas",
+  age: 14,
+  hobbies: ["programming", "watching youtube"],
+  country: "Egypt",
+};
 ```
+<div align="center">
+![​Discord​](https://discord.c99.nl/widget/theme-3/614581812986904616.png)
+</div>
 
 - 👋 Hi I am dehteam3
 - 👦 I am 14 years old
