@@ -1,6 +1,6 @@
 # dehteam3's Github
  
- ​<img src="https://komarev.com/ghpvc/?username=dehteam3" alt="dehteam3" />
+<img src="https://komarev.com/ghpvc/?username=dehteam3" alt="dehteam3" />
 ```js
 const dehteam3 = {
   name: "Thomas",
