@@ -1,6 +1,5 @@
 # dehteam3's Github
  
-<img src="https://komarev.com/ghpvc/?username=dehteam3&color=red"/>
 ```js
 const dehteam3 = {
   name: "Thomas",
