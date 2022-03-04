@@ -1,6 +1,6 @@
 # dehteam3's Github
  
-<img src="https://komarev.com/ghpvc/?username=dehteam3" alt="dehteam3" />
+<img src="https://komarev.com/ghpvc/?username=dehteam3&color=red"/>
 ```js
 const dehteam3 = {
   name: "Thomas",
@@ -9,7 +9,7 @@ const dehteam3 = {
   country: "Egypt",
 };
 ```
- ​![​Discord​](https://discord.c99.nl/widget/theme-2/614581812986904616.png)  
+![​Discord​](https://discord.c99.nl/widget/theme-2/614581812986904616.png)  
 
 - 👋 Hi I am dehteam3
 - 👦 I am 14 years old
